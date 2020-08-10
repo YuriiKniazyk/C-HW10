@@ -1,0 +1,7 @@
+D:\Web\Training\SoftServe\HomeWork\HW10\DelegatEvent\bin\Debug\DelegatEvent.exe.config
+D:\Web\Training\SoftServe\HomeWork\HW10\DelegatEvent\bin\Debug\DelegatEvent.exe
+D:\Web\Training\SoftServe\HomeWork\HW10\DelegatEvent\bin\Debug\DelegatEvent.pdb
+D:\Web\Training\SoftServe\HomeWork\HW10\DelegatEvent\obj\Debug\DelegatEvent.csprojAssemblyReference.cache
+D:\Web\Training\SoftServe\HomeWork\HW10\DelegatEvent\obj\Debug\DelegatEvent.csproj.CoreCompileInputs.cache
+D:\Web\Training\SoftServe\HomeWork\HW10\DelegatEvent\obj\Debug\DelegatEvent.exe
+D:\Web\Training\SoftServe\HomeWork\HW10\DelegatEvent\obj\Debug\DelegatEvent.pdb
